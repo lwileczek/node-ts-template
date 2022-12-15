@@ -6,7 +6,7 @@ This is a tempalete for Node projects which will use TypeScript to help quick st
 to create a project with this template run 
 
 ```bash
-npx degit lwileczek/lwileczek/node-ts-template my-proj
+npx degit lwileczek/node-ts-template my-proj
 cd my-proj
 pnpm install # or yarn install or npm install
 ```
